@@ -1,0 +1,21 @@
+
+# Eclipse workspace files
+.metadata/
+.settings/
+.project
+.classpath
+
+# Compiled Java files
+*.class
+
+# Build output
+target/
+build/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
